@@ -1,0 +1,43 @@
+
+body {
+font-family: 'verdana', 'geneva' sans-serif;
+font-size: 18px;
+width: 700px;
+margin: 0 auto;
+
+}
+
+h1 {
+    font-size: 37px;
+    line-height: 46px;
+    font-family: 'tahoma', Helvetica, sans-serif;
+    color: #000000;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    line-height: 38px;
+    font-family: 'tahoma', Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+p {
+    color:#333;
+    line-height: 27px;
+    font-family: 'tahoma', Helvetica, sans-serif;
+    text-align: justify;
+    
+Espaço entre as linhas: 27px;
+Tamanho da fonte: 18px
+//Até agora, "tamanho da fonte 18px" aparece 3 vezes. Sabendo que existe "herança de
+propriedade" Você percebeu como usar "font-size: 18px" uma vez?
+}
+
+img {
+    display: block
+    margin: auto
+}
+
+/* Isto é um comentário */

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,600,700&display=swap');
+
+body {
+     
+       font-size:  25px;
+       font-family: 'Titillium Web', sans-serif;
+       background-color: gray
+}
+      h1 {
+        color:rgba(0,0,0,3);
+      }
+      {h1color: blockquote}
+
+      .outro-paragrafo {
+        
+        color: orange
+      }
